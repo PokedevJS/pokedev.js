@@ -1,5 +1,5 @@
 {
-  "name": "@pokedevjs/pokedev.js",
+  "name": "pokedev.js",
   "version": "1.0.5",
   "description": "pokedev.js is a tool make to help developers get info about a pokemon and use it in any project with ease.",
   "main": "src/Main.js",
