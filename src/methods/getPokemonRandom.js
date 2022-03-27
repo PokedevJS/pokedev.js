@@ -1,3 +1,5 @@
+/* This function will return a random pokemon from the list of pokemon. */
+
 const config = require("../../resource/PokeList");
 const getPokemonByID = require("./getPokemonByID")
 

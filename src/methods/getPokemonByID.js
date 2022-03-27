@@ -1,3 +1,5 @@
+/* The code above is a function that returns a promise. The promise is resolved with a JSON object
+containing the name, id, and form of a random pokemon. */
 const config = require("../../resource/PokeList");
 
 module.exports = async function getPokemonByID(id) {
