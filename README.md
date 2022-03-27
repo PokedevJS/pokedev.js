@@ -6,6 +6,8 @@ pokedev.js is a tool make to help developers get info about a pokemon and use it
 
 ![Logo](https://cdn.discordapp.com/attachments/849761002676813854/957437663718285382/35d601855f9b83fca3dfa53e4ffddd25.png)
 
+[![Discord](https://img.shields.io/discord/953072048576536596?color=5865F2&label=discord&logo=Discord&logoColor=red)](https://discord.com/invite/qfxwKUM9RY) 
+
 
 [![npm](https://img.shields.io/badge/npm-pokedev.js-red)](https://www.npmjs.com/package/pokedev.js) 
 
