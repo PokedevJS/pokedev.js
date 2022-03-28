@@ -11,14 +11,16 @@ pokedev.js is a tool make to help developers get info about a pokemon and use it
 
 [![npm](https://img.shields.io/badge/npm-pokedev.js-red)](https://www.npmjs.com/package/pokedev.js) 
 
- [![size](https://img.shields.io/github/repo-size/pokedevjs/pokedev.js?color=red&label=SIZE)](https://img.shields.io/github/repo-size/pokedevjs/pokedev.js?color=red&label=SIZE)
+[![size](https://img.shields.io/github/repo-size/pokedevjs/pokedev.js?color=red&label=SIZE)](https://www.npmjs.com/package/pokedev.js)
+
+[![downloads](https://img.shields.io/npm/dt/pokedev.js?color=red)](https://www.npmjs.com/package/pokedev.js)
 
 ## Quick Links
 
 - [Installation](#installation)
 - [Code Example](#code-example)
     - [Methods](#methods)
-- [Console Output](#donsole-output)
+- [Console Output](#console-output)
 - [Developers](#developers)
 
 ## Installation
