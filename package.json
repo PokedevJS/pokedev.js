@@ -1,6 +1,6 @@
 {
   "name": "pokedev.js",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "pokedev.js is a tool make to help developers get info about a pokemon and use it in any project with ease.",
   "main": "src/Main.js",
   "scripts": {
