@@ -3,6 +3,7 @@
   "version": "1.0.10",
   "description": "pokedev.js is a tool make to help developers get info about a pokemon and use it in any project with ease.",
   "main": "src/Main.js",
+  "typings": "src/typings/Main.d.ts",
   "scripts": {
     "publish": "npm publish",
     "test": "node test/Test.js"
