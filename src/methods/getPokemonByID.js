@@ -1,28 +1,21 @@
 /* The code above is a function that returns a promise. The promise is resolved with a JSON object
 containing the name, id, and form of a random pokemon. */
+const chalk = require("chalk");
 const config = require("../../resource/PokeList");
 
 module.exports = async function getPokemonByID(id) {
+
+    if (!id) throw new Error(chalk.redBright("You must provide an id to search for a pokemon."));
+
     let data;
 
     if (isNaN(id)) {
-        return console.log("Looks like you put a string for the id instead of an integer. If you would like to search for a pokemon via name. Consider using the getPokemonByName method")
+        throw new Error(chalk.redBright("Looks like you put a string for the id instead of an integer. If you would like to search for a pokemon via name. Consider using the getPokemonByName method"));
     } else {
         data = config[parseInt(id)];
     }
 
-    if (!data) data = config[0];
+    if (!data) throw new Error(chalk.redBright(`No pokemon found with id ${id}`));
 
-    if (!data.forms) data.forms = [
-        null,
-        null
-    ]
-
-    const formIndex = Math.floor(Math.random() * ((data.forms.length - 1) - 0 + 1) + 0);
-
-    return {
-        name: `${data.name}`,
-        id: `${data.id}`,
-        form: `${data.forms[formIndex]}`
-    };
+    return data;
 };
