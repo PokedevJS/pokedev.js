@@ -5,8 +5,7 @@ const { getPokemonByID, getPokemonByName, getPokemonRandom, getPokemonByType } =
 
 
 const run = async () => {
-    const pokemon = await getPokemonByName("Pichu")
+    let pokemon = await getPokemonByID("wawaw")
     console.log(pokemon);
 }
-
 run();

@@ -23,8 +23,5 @@
     "random-pokemon",
     "pokedev"
   ],
-  "homepage": "https://github.com/PokedevJS/pokedev.js#readme",
-  "dependencies": {
-    "chalk": "4.1.2"
-  }
+  "homepage": "https://github.com/PokedevJS/pokedev.js#readme"
 }
