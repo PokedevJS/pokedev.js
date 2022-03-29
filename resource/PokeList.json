@@ -2,7 +2,9 @@
   {
     "name": null,
     "id": "000",
-    "tyoe": null,
+    "type": [
+      null
+    ],
     "forms": [null, null]
   },
   {
