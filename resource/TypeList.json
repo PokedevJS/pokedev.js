@@ -1,0 +1,317 @@
+[
+    {
+        "name": "Normal",
+        "weaknesses": [
+            "Fighting"
+        ],
+        "resistance": [
+            "Ghost"
+        ],
+        "strengths": []
+    },
+    {
+        "name": "Fire",
+        "weaknesses": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "resistance": [
+            "Grass",
+            "Ice",
+            "Bug",
+            "Steel"
+        ],
+        "strengths": [
+            "Fire",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "Water",
+        "weaknesses": [
+            "Electric",
+            "Grass"
+        ],
+        "resistance": [
+            "Fire",
+            "Ground",
+            "Rock"
+        ],
+        "strengths": [
+            "Water",
+            "Ice",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "Electric",
+        "weaknesses": [
+            "Ground"
+        ],
+        "resistance": [
+            "Flying",
+            "Water"
+        ],
+        "strengths": [
+            "Electric",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "Grass",
+        "weaknesses": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "resistance": [
+            "Fire",
+            "Ice",
+            "Poison",
+            "Flying",
+            "Bug"
+        ],
+        "strengths": [
+            "Grass",
+            "Ground",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "Ice",
+        "weaknesses": [
+            "Fire",
+            "Fighting",
+            "Rock",
+            "Steel"
+        ],
+        "resistance": [
+            "Ice",
+            "Grass",
+            "Ground",
+            "Flying",
+            "Dragon"
+        ],
+        "strengths": [
+            "Ice",
+            "Flying",
+            "Dragon"
+        ]
+    },
+    {
+        "name": "Fighting",
+        "weaknesses": [
+            "Psychic",
+            "Flying",
+            "Fairy"
+        ],
+        "resistance": [
+            "Normal",
+            "Ice",
+            "Rock"
+        ],
+        "strengths": [
+            "Poison",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Dark"
+        ]
+    },
+    {
+        "name": "Poison",
+        "weaknesses": [
+            "Ground",
+            "Psychic"
+        ],
+        "resistance": [
+            "Poison",
+            "Ground",
+            "Rock"
+        ],
+        "strengths": [
+            "Grass",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "Ground",
+        "weaknesses": [
+            "Water",
+            "Grass",
+            "Ice"
+        ],
+        "resistance": [
+            "Poison",
+            "Rock"
+        ],
+        "strengths": [
+            "Bug",
+            "Steel"
+        ]
+    },
+    {
+        "name": "Flying",
+        "weaknesses": [
+            "Electric",
+            "Rock",
+            "Steel"
+        ],
+        "resistance": [
+            "Grass",
+            "Fighting",
+            "Bug"
+        ],
+        "strengths": [
+            "Ice",
+            "Bug",
+            "Ghost"
+        ]
+    },
+    {
+        "name": "Psychic",
+        "weaknesses": [
+            "Bug",
+            "Ghost",
+            "Dark"
+        ],
+        "resistance": [
+            "Fighting",
+            "Psychic"
+        ],
+        "strengths": [
+            "Psychic",
+            "Steel"
+        ]
+    },
+    {
+        "name": "Bug",
+        "weaknesses": [
+            "Fire",
+            "Flying",
+            "Rock"
+        ],
+        "resistance": [
+            "Grass",
+            "Fighting",
+            "Ground"
+        ],
+        "strengths": [
+            "Water",
+            "Psychic",
+            "Ghost"
+        ]
+    },
+    {
+        "name": "Rock",
+        "weaknesses": [
+            "Fire",
+            "Fighting",
+            "Ground"
+        ],
+        "resistance": [
+            "Normal",
+            "Flying",
+            "Poison",
+            "Fire",
+            "Ice",
+            "Bug"
+        ],
+        "strengths": [
+            "Flying",
+            "Bug"
+        ]
+    },
+    {
+        "name": "Ghost",
+        "weaknesses": [
+            "Ghost",
+            "Dark"
+        ],
+        "resistance": [
+            "Poison",
+            "Bug"
+        ],
+        "strengths": [
+            "Psychic",
+            "Ghost"
+        ]
+    },
+    {
+        "name": "Dragon",
+        "weaknesses": [
+            "Ice",
+            "Dragon",
+            "Fairy"
+        ],
+        "resistance": [
+            "Fire",
+            "Water",
+            "Electric",
+            "Grass"
+        ],
+        "strengths": [
+            "Dragon"
+        ]
+    },
+    {
+        "name": "Dark",
+        "weaknesses": [
+            "Fighting",
+            "Bug",
+            "Fairy"
+        ],
+        "resistance": [
+            "Psychic",
+            "Ghost"
+        ],
+        "strengths": [
+            "Dark",
+            "Fairy"
+        ]
+    },
+    {
+        "name": "Steel",
+        "weaknesses": [
+            "Fire",
+            "Water",
+            "Electric",
+            "Ice",
+            "Rock"
+        ],
+        "resistance": [
+            "Steel",
+            "Poison",
+            "Fairy"
+        ],
+        "strengths": [
+            "Normal",
+            "Grass",
+            "Ice",
+            "Flying",
+            "Psychic",
+            "Bug",
+            "Dragon",
+            "Dark"
+        ]
+    },
+    {
+        "name": "Fairy",
+        "weaknesses": [
+            "Poison",
+            "Steel"
+        ],
+        "resistance": [
+            "Fighting",
+            "Dragon",
+            "Dark"
+        ],
+        "strengths": [
+            "Fire",
+            "Fighting",
+            "Dragon",
+            "Dark"
+        ]
+    }
+]
