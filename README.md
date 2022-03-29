@@ -17,11 +17,13 @@ pokedev.js is a tool make to help developers get info about a pokemon and use it
 
 ## Quick Links
 
-- [Installation](#installation)
-- [Code Example](#code-example)
-    - [Methods](#methods)
-- [Console Output](#console-output)
-- [Developers](#developers)
+- [pokedev.js](#pokedevjs)
+  - [Quick Links](#quick-links)
+  - [Installation](#installation)
+  - [Code Example](#code-example)
+  - [Console output](#console-output)
+  - [Methods](#methods)
+  - [Developers](#developers)
 
 ## Installation
 
@@ -52,10 +54,13 @@ run();
 
 ```js
 {
-  name: 'Nidoran',
+  name: 'Nidoran♂',
   id: '032',
-  form: 'https://www.serebii.net/Shiny/SWSH/032.png',
-  type: 'COMMING SOON'
+  type: [ 'Poison' ],
+  forms: [
+    'https://www.serebii.net/swordshield/pokemon/032.png',
+    'https://www.serebii.net/Shiny/SWSH/032.png'
+    ]
 }
 ```
 ## Methods
@@ -65,12 +70,11 @@ Fetching a pokemon by an id.
 - **`getPokemonByName(name)`**:
 Fetching a pokemon by a name.
 - **`getPokemonByType(type)`**: 
-Fetching a pokemon by the type.
+Fetching an array of pokemon by a type.
 - **`getPokemonRandom()`**: 
-Fetching a random pokemon. (SOON)
+Fetching a random pokemon.
 
 ## Developers
 
 - [@RT](https://github.com/rtgamingwdt)
 - [@Mezo](https://github.com/mezotv)
-
