@@ -1,9 +1,8 @@
 const config = require("../../resource/PokeList.json");
-const chalk = require("chalk");
 /* A function that returns a promise. */
 module.exports = async function getPokemonByType(type) {
 
-    if (!type) throw new Error(chalk.redBright("You must provide a type to search for a pokemon."));
+    if (!type) throw new Error("\u001b[31;1m You must provide a type to search for a pokemon.");
 
     const pokemon = [];
 
@@ -15,7 +14,7 @@ module.exports = async function getPokemonByType(type) {
         }
     });
 
-    if (pokemon.length === 0) throw new Error(chalk.redBright(`No pokemon found with type ${query}`))
+    if (pokemon.length === 0) throw new Error(`\u001b[31;1m No pokemon found with type ${query}`);
     else
         return pokemon;
 }
