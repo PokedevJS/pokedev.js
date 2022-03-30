@@ -1,8 +1,9 @@
 const config = require("../../resource/PokeList.json");
+const TextFormat = require("../util/TextFormat");
 /* A function that returns a promise. */
 module.exports = async function getPokemonByType(type) {
 
-    if (!type) throw new Error("\u001b[31;1m You must provide a type to search for a pokemon.");
+    if (!type) throw new Error(TextFormat.bold(TextFormat.red("You must provide a type to search for a pokemon.")));
 
     const pokemon = [];
 
@@ -14,7 +15,7 @@ module.exports = async function getPokemonByType(type) {
         }
     });
 
-    if (pokemon.length === 0) throw new Error(`\u001b[31;1m No pokemon found with type ${query}`);
+    if (pokemon.length === 0) throw new Error(TextFormat.bold(TextFormat.red(`No pokemon found with type ${query}`)));
     else
         return pokemon;
 }
