@@ -1,11 +1,20 @@
 [
-  {
+
+{
     "name": "Bulbasaur",
     "id": "001",
     "type": [
       "Grass",
       "Poison"
     ],
+    "stats": {
+      "hp": 45,
+      "atk": 49,
+      "def": 49,
+      "spa": 65,
+      "spd": 65,
+      "spe": 45
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/001.png",
       "https://www.serebii.net/Shiny/SWSH/001.png"
@@ -18,6 +27,14 @@
       "Grass",
       "Poison"
     ],
+    "stats": {
+      "hp": 60,
+      "atk": 62,
+      "def": 63,
+      "spa": 80,
+      "spd": 80,
+      "spe": 60
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/002.png",
       "https://www.serebii.net/Shiny/SWSH/002.png"
@@ -30,6 +47,14 @@
       "Grass",
       "Poison"
     ],
+    "stats": {
+      "hp": 80,
+      "atk": 82,
+      "def": 83,
+      "spa": 100,
+      "spd": 100,
+      "spe": 80
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/003.png",
       "https://www.serebii.net/Shiny/SWSH/003.png"
@@ -41,6 +66,14 @@
     "type": [
       "Fire"
     ],
+    "stats": {
+      "hp": 39,
+      "atk": 52,
+      "def": 43,
+      "spa": 60,
+      "spd": 50,
+      "spe": 65
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/004.png",
       "https://www.serebii.net/Shiny/SWSH/004.png"
@@ -52,6 +85,14 @@
     "type": [
       "Fire"
     ],
+    "stats": {
+      "hp": 58,
+      "atk": 64,
+      "def": 58,
+      "spa": 80,
+      "spd": 65,
+      "spe": 80
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/005.png",
       "https://www.serebii.net/Shiny/SWSH/005.png"
@@ -64,6 +105,14 @@
       "Fire",
       "Flying"
     ],
+    "stats": {
+      "hp": 78,
+      "atk": 84,
+      "def": 78,
+      "spa": 109,
+      "spd": 85,
+      "spe": 100
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/006.png",
       "https://www.serebii.net/Shiny/SWSH/006.png"
@@ -75,6 +124,14 @@
     "type": [
       "Water"
     ],
+    "stats": {
+      "hp": 44,
+      "atk": 48,
+      "def": 65,
+      "spa": 50,
+      "spd": 64,
+      "spe": 43
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/007.png",
       "https://www.serebii.net/Shiny/SWSH/007.png"
@@ -86,6 +143,14 @@
     "type": [
       "Water"
     ],
+    "stats": {
+      "hp": 59,
+      "atk": 63,
+      "def": 80,
+      "spa": 65,
+      "spd": 80,
+      "spe": 58
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/008.png",
       "https://www.serebii.net/Shiny/SWSH/008.png"
@@ -97,6 +162,14 @@
     "type": [
       "Water"
     ],
+    "stats": {
+      "hp": 79,
+      "atk": 83,
+      "def": 100,
+      "spa": 85,
+      "spd": 105,
+      "spe": 78
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/009.png",
       "https://www.serebii.net/Shiny/SWSH/009.png"
@@ -108,6 +181,14 @@
     "type": [
       "Bug"
     ],
+    "stats": {
+      "hp": 45,
+      "atk": 30,
+      "def": 35,
+      "spa": 20,
+      "spd": 20,
+      "spe": 45
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/010.png",
       "https://www.serebii.net/Shiny/SWSH/010.png"
@@ -119,6 +200,14 @@
     "type": [
       "Bug"
     ],
+    "stats": {
+      "hp": 50,
+      "atk": 20,
+      "def": 55,
+      "spa": 25,
+      "spd": 25,
+      "spe": 30
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/011.png",
       "https://www.serebii.net/Shiny/SWSH/011.png"
@@ -131,6 +220,14 @@
       "Bug",
       "Flying"
     ],
+    "stats": {
+      "hp": 60,
+      "atk": 45,
+      "def": 50,
+      "spa": 90,
+      "spd": 80,
+      "spe": 70
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/012.png",
       "https://www.serebii.net/Shiny/SWSH/012.png"
@@ -143,6 +240,14 @@
       "Bug",
       "Poison"
     ],
+    "stats": {
+      "hp": 40,
+      "atk": 35,
+      "def": 30,
+      "spa": 20,
+      "spd": 20,
+      "spe": 50
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/013.png",
       "https://www.serebii.net/Shiny/SWSH/013.png"
@@ -155,6 +260,14 @@
       "Bug",
       "Poison"
     ],
+    "stats": {
+      "hp": 45,
+      "atk": 25,
+      "def": 50,
+      "spa": 25,
+      "spd": 25,
+      "spe": 35
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/014.png",
       "https://www.serebii.net/Shiny/SWSH/014.png"
@@ -167,6 +280,14 @@
       "Bug",
       "Poison"
     ],
+    "stats": {
+      "hp": 65,
+      "atk": 90,
+      "def": 40,
+      "spa": 45,
+      "spd": 80,
+      "spe": 75
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/015.png",
       "https://www.serebii.net/Shiny/SWSH/015.png"
@@ -179,6 +300,14 @@
       "Normal",
       "Flying"
     ],
+    "stats": {
+      "hp": 40,
+      "atk": 45,
+      "def": 40,
+      "spa": 35,
+      "spd": 35,
+      "spe": 56
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/016.png",
       "https://www.serebii.net/Shiny/SWSH/016.png"
@@ -191,6 +320,14 @@
       "Normal",
       "Flying"
     ],
+    "stats": {
+      "hp": 63,
+      "atk": 60,
+      "def": 55,
+      "spa": 50,
+      "spd": 50,
+      "spe": 71
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/017.png",
       "https://www.serebii.net/Shiny/SWSH/017.png"
@@ -203,6 +340,14 @@
       "Normal",
       "Flying"
     ],
+    "stats": {
+      "hp": 83,
+      "atk": 80,
+      "def": 75,
+      "spa": 70,
+      "spd": 70,
+      "spe": 101
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/018.png",
       "https://www.serebii.net/Shiny/SWSH/018.png"
@@ -214,6 +359,14 @@
     "type": [
       "Normal"
     ],
+    "stats": {
+      "hp": 30,
+      "atk": 56,
+      "def": 35,
+      "spa": 25,
+      "spd": 35,
+      "spe": 72
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/019.png",
       "https://www.serebii.net/Shiny/SWSH/019.png"
@@ -225,6 +378,14 @@
     "type": [
       "Normal"
     ],
+    "stats": {
+      "hp": 55,
+      "atk": 81,
+      "def": 60,
+      "spa": 50,
+      "spd": 70,
+      "spe": 97
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/020.png",
       "https://www.serebii.net/Shiny/SWSH/020.png"
@@ -237,6 +398,14 @@
       "Normal",
       "Flying"
     ],
+    "stats": {
+      "hp": 40,
+      "atk": 60,
+      "def": 30,
+      "spa": 31,
+      "spd": 31,
+      "spe": 70
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/021.png",
       "https://www.serebii.net/Shiny/SWSH/021.png"
@@ -249,6 +418,14 @@
       "Normal",
       "Flying"
     ],
+    "stats": {
+      "hp": 65,
+      "atk": 90,
+      "def": 65,
+      "spa": 61,
+      "spd": 61,
+      "spe": 100
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/022.png",
       "https://www.serebii.net/Shiny/SWSH/022.png"
@@ -260,6 +437,14 @@
     "type": [
       "Poison"
     ],
+    "stats": {
+      "hp": 35,
+      "atk": 60,
+      "def": 44,
+      "spa": 40,
+      "spd": 54,
+      "spe": 55
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/023.png",
       "https://www.serebii.net/Shiny/SWSH/023.png"
@@ -271,6 +456,14 @@
     "type": [
       "Poison"
     ],
+    "stats": {
+      "hp": 60,
+      "atk": 95,
+      "def": 69,
+      "spa": 65,
+      "spd": 79,
+      "spe": 80
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/024.png",
       "https://www.serebii.net/Shiny/SWSH/024.png"
@@ -282,6 +475,14 @@
     "type": [
       "Electric"
     ],
+    "stats": {
+      "hp": 35,
+      "atk": 55,
+      "def": 40,
+      "spa": 50,
+      "spd": 50,
+      "spe": 90
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/025.png",
       "https://www.serebii.net/Shiny/SWSH/025.png"
@@ -293,6 +494,14 @@
     "type": [
       "Electric"
     ],
+    "stats": {
+      "hp": 60,
+      "atk": 90,
+      "def": 55,
+      "spa": 90,
+      "spd": 80,
+      "spe": 110
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/026.png",
       "https://www.serebii.net/Shiny/SWSH/026.png"
@@ -304,6 +513,14 @@
     "type": [
       "Ground"
     ],
+    "stats": {
+      "hp": 50,
+      "atk": 75,
+      "def": 85,
+      "spa": 20,
+      "spd": 30,
+      "spe": 40
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/027.png",
       "https://www.serebii.net/Shiny/SWSH/027.png"
@@ -315,6 +532,14 @@
     "type": [
       "Ground"
     ],
+    "stats": {
+      "hp": 75,
+      "atk": 100,
+      "def": 110,
+      "spa": 45,
+      "spd": 55,
+      "spe": 65
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/028.png",
       "https://www.serebii.net/Shiny/SWSH/028.png"
@@ -326,6 +551,14 @@
     "type": [
       "Poison"
     ],
+    "stats": {
+      "hp": 55,
+      "atk": 47,
+      "def": 52,
+      "spa": 40,
+      "spd": 40,
+      "spe": 41
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/029.png",
       "https://www.serebii.net/Shiny/SWSH/029.png"
@@ -337,6 +570,14 @@
     "type": [
       "Poison"
     ],
+    "stats": {
+      "hp": 70,
+      "atk": 62,
+      "def": 67,
+      "spa": 55,
+      "spd": 55,
+      "spe": 56
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/030.png",
       "https://www.serebii.net/Shiny/SWSH/030.png"
@@ -349,6 +590,14 @@
       "Poison",
       "Ground"
     ],
+    "stats": {
+      "hp": 90,
+      "atk": 92,
+      "def": 87,
+      "spa": 75,
+      "spd": 85,
+      "spe": 76
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/031.png",
       "https://www.serebii.net/Shiny/SWSH/031.png"
@@ -360,6 +609,14 @@
     "type": [
       "Poison"
     ],
+    "stats": {
+      "hp": 46,
+      "atk": 57,
+      "def": 40,
+      "spa": 40,
+      "spd": 40,
+      "spe": 50
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/032.png",
       "https://www.serebii.net/Shiny/SWSH/032.png"
@@ -371,6 +628,14 @@
     "type": [
       "Poison"
     ],
+    "stats": {
+      "hp": 61,
+      "atk": 72,
+      "def": 57,
+      "spa": 55,
+      "spd": 55,
+      "spe": 65
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/033.png",
       "https://www.serebii.net/Shiny/SWSH/033.png"
@@ -383,6 +648,14 @@
       "Poison",
       "Ground"
     ],
+    "stats": {
+      "hp": 81,
+      "atk": 102,
+      "def": 77,
+      "spa": 85,
+      "spd": 75,
+      "spe": 85
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/034.png",
       "https://www.serebii.net/Shiny/SWSH/034.png"
@@ -394,6 +667,14 @@
     "type": [
       "Fairy"
     ],
+    "stats": {
+      "hp": 70,
+      "atk": 45,
+      "def": 48,
+      "spa": 60,
+      "spd": 65,
+      "spe": 35
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/035.png",
       "https://www.serebii.net/Shiny/SWSH/035.png"
@@ -405,6 +686,14 @@
     "type": [
       "Fairy"
     ],
+    "stats": {
+      "hp": 95,
+      "atk": 70,
+      "def": 73,
+      "spa": 95,
+      "spd": 90,
+      "spe": 60
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/036.png",
       "https://www.serebii.net/Shiny/SWSH/036.png"
@@ -416,6 +705,14 @@
     "type": [
       "Fire"
     ],
+    "stats": {
+      "hp": 38,
+      "atk": 41,
+      "def": 40,
+      "spa": 50,
+      "spd": 65,
+      "spe": 65
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/037.png",
       "https://www.serebii.net/Shiny/SWSH/037.png"
@@ -427,6 +724,14 @@
     "type": [
       "Fire"
     ],
+    "stats": {
+      "hp": 73,
+      "atk": 76,
+      "def": 75,
+      "spa": 81,
+      "spd": 100,
+      "spe": 100
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/038.png",
       "https://www.serebii.net/Shiny/SWSH/038.png"
@@ -439,6 +744,14 @@
       "Normal",
       "Fairy"
     ],
+    "stats": {
+      "hp": 115,
+      "atk": 45,
+      "def": 20,
+      "spa": 45,
+      "spd": 25,
+      "spe": 20
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/039.png",
       "https://www.serebii.net/Shiny/SWSH/039.png"
@@ -451,6 +764,14 @@
       "Normal",
       "Fairy"
     ],
+    "stats": {
+      "hp": 140,
+      "atk": 70,
+      "def": 45,
+      "spa": 85,
+      "spd": 50,
+      "spe": 45
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/040.png",
       "https://www.serebii.net/Shiny/SWSH/040.png"
@@ -463,6 +784,14 @@
       "Poison",
       "Flying"
     ],
+    "stats": {
+      "hp": 40,
+      "atk": 45,
+      "def": 35,
+      "spa": 30,
+      "spd": 40,
+      "spe": 55
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/041.png",
       "https://www.serebii.net/Shiny/SWSH/041.png"
@@ -475,6 +804,14 @@
       "Poison",
       "Flying"
     ],
+    "stats": {
+      "hp": 75,
+      "atk": 80,
+      "def": 70,
+      "spa": 65,
+      "spd": 75,
+      "spe": 90
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/042.png",
       "https://www.serebii.net/Shiny/SWSH/042.png"
@@ -487,6 +824,14 @@
       "Grass",
       "Poison"
     ],
+    "stats": {
+      "hp": 45,
+      "atk": 50,
+      "def": 55,
+      "spa": 75,
+      "spd": 65,
+      "spe": 30
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/043.png",
       "https://www.serebii.net/Shiny/SWSH/043.png"
@@ -499,6 +844,14 @@
       "Grass",
       "Poison"
     ],
+    "stats": {
+      "hp": 60,
+      "atk": 65,
+      "def": 70,
+      "spa": 85,
+      "spd": 75,
+      "spe": 40
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/044.png",
       "https://www.serebii.net/Shiny/SWSH/044.png"
@@ -511,6 +864,14 @@
       "Grass",
       "Poison"
     ],
+    "stats": {
+      "hp": 75,
+      "atk": 80,
+      "def": 85,
+      "spa": 110,
+      "spd": 90,
+      "spe": 50
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/045.png",
       "https://www.serebii.net/Shiny/SWSH/045.png"
@@ -523,6 +884,14 @@
       "Bug",
       "Grass"
     ],
+    "stats": {
+      "hp": 35,
+      "atk": 70,
+      "def": 55,
+      "spa": 45,
+      "spd": 55,
+      "spe": 25
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/046.png",
       "https://www.serebii.net/Shiny/SWSH/046.png"
@@ -535,6 +904,14 @@
       "Bug",
       "Grass"
     ],
+    "stats": {
+      "hp": 60,
+      "atk": 95,
+      "def": 80,
+      "spa": 60,
+      "spd": 80,
+      "spe": 30
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/047.png",
       "https://www.serebii.net/Shiny/SWSH/047.png"
@@ -547,6 +924,14 @@
       "Bug",
       "Poison"
     ],
+    "stats": {
+      "hp": 60,
+      "atk": 55,
+      "def": 50,
+      "spa": 40,
+      "spd": 55,
+      "spe": 45
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/048.png",
       "https://www.serebii.net/Shiny/SWSH/048.png"
@@ -559,6 +944,14 @@
       "Bug",
       "Poison"
     ],
+    "stats": {
+      "hp": 70,
+      "atk": 65,
+      "def": 60,
+      "spa": 90,
+      "spd": 75,
+      "spe": 90
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/049.png",
       "https://www.serebii.net/Shiny/SWSH/049.png"
@@ -570,6 +963,14 @@
     "type": [
       "Ground"
     ],
+    "stats": {
+      "hp": 10,
+      "atk": 55,
+      "def": 25,
+      "spa": 35,
+      "spd": 45,
+      "spe": 95
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/050.png",
       "https://www.serebii.net/Shiny/SWSH/050.png"
@@ -581,6 +982,14 @@
     "type": [
       "Ground"
     ],
+    "stats": {
+      "hp": 35,
+      "atk": 100,
+      "def": 50,
+      "spa": 50,
+      "spd": 70,
+      "spe": 120
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/051.png",
       "https://www.serebii.net/Shiny/SWSH/051.png"
@@ -592,6 +1001,14 @@
     "type": [
       "Normal"
     ],
+    "stats": {
+      "hp": 40,
+      "atk": 45,
+      "def": 35,
+      "spa": 40,
+      "spd": 40,
+      "spe": 90
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/052.png",
       "https://www.serebii.net/Shiny/SWSH/052.png"
@@ -603,6 +1020,14 @@
     "type": [
       "Normal"
     ],
+    "stats": {
+      "hp": 65,
+      "atk": 70,
+      "def": 60,
+      "spa": 65,
+      "spd": 65,
+      "spe": 115
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/053.png",
       "https://www.serebii.net/Shiny/SWSH/053.png"
@@ -614,6 +1039,14 @@
     "type": [
       "Water"
     ],
+    "stats": {
+      "hp": 50,
+      "atk": 52,
+      "def": 48,
+      "spa": 65,
+      "spd": 50,
+      "spe": 55
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/054.png",
       "https://www.serebii.net/Shiny/SWSH/054.png"
@@ -625,6 +1058,14 @@
     "type": [
       "Water"
     ],
+    "stats": {
+      "hp": 80,
+      "atk": 82,
+      "def": 78,
+      "spa": 95,
+      "spd": 80,
+      "spe": 85
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/055.png",
       "https://www.serebii.net/Shiny/SWSH/055.png"
@@ -636,6 +1077,14 @@
     "type": [
       "Fighting"
     ],
+    "stats": {
+      "hp": 40,
+      "atk": 80,
+      "def": 35,
+      "spa": 35,
+      "spd": 45,
+      "spe": 70
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/056.png",
       "https://www.serebii.net/Shiny/SWSH/056.png"
@@ -647,6 +1096,14 @@
     "type": [
       "Fighting"
     ],
+    "stats": {
+      "hp": 65,
+      "atk": 105,
+      "def": 60,
+      "spa": 60,
+      "spd": 70,
+      "spe": 95
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/057.png",
       "https://www.serebii.net/Shiny/SWSH/057.png"
@@ -658,6 +1115,14 @@
     "type": [
       "Fire"
     ],
+    "stats": {
+      "hp": 55,
+      "atk": 70,
+      "def": 45,
+      "spa": 70,
+      "spd": 50,
+      "spe": 60
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/058.png",
       "https://www.serebii.net/Shiny/SWSH/058.png"
@@ -669,6 +1134,14 @@
     "type": [
       "Fire"
     ],
+    "stats": {
+      "hp": 90,
+      "atk": 110,
+      "def": 80,
+      "spa": 100,
+      "spd": 80,
+      "spe": 95
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/059.png",
       "https://www.serebii.net/Shiny/SWSH/059.png"
@@ -680,6 +1153,14 @@
     "type": [
       "Water"
     ],
+    "stats": {
+      "hp": 40,
+      "atk": 50,
+      "def": 40,
+      "spa": 40,
+      "spd": 40,
+      "spe": 90
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/060.png",
       "https://www.serebii.net/Shiny/SWSH/060.png"
@@ -691,6 +1172,14 @@
     "type": [
       "Water"
     ],
+    "stats": {
+      "hp": 65,
+      "atk": 65,
+      "def": 65,
+      "spa": 50,
+      "spd": 50,
+      "spe": 90
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/061.png",
       "https://www.serebii.net/Shiny/SWSH/061.png"
@@ -703,6 +1192,14 @@
       "Water",
       "Fighting"
     ],
+    "stats": {
+      "hp": 90,
+      "atk": 95,
+      "def": 95,
+      "spa": 70,
+      "spd": 90,
+      "spe": 70
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/062.png",
       "https://www.serebii.net/Shiny/SWSH/062.png"
@@ -714,6 +1211,14 @@
     "type": [
       "Psychic"
     ],
+    "stats": {
+      "hp": 25,
+      "atk": 20,
+      "def": 15,
+      "spa": 105,
+      "spd": 55,
+      "spe": 90
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/063.png",
       "https://www.serebii.net/Shiny/SWSH/063.png"
@@ -725,6 +1230,14 @@
     "type": [
       "Psychic"
     ],
+    "stats": {
+      "hp": 40,
+      "atk": 35,
+      "def": 30,
+      "spa": 120,
+      "spd": 70,
+      "spe": 105
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/064.png",
       "https://www.serebii.net/Shiny/SWSH/064.png"
@@ -736,6 +1249,14 @@
     "type": [
       "Psychic"
     ],
+    "stats": {
+      "hp": 55,
+      "atk": 50,
+      "def": 45,
+      "spa": 135,
+      "spd": 95,
+      "spe": 120
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/065.png",
       "https://www.serebii.net/Shiny/SWSH/065.png"
@@ -747,6 +1268,14 @@
     "type": [
       "Fighting"
     ],
+    "stats": {
+      "hp": 70,
+      "atk": 80,
+      "def": 50,
+      "spa": 35,
+      "spd": 35,
+      "spe": 35
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/066.png",
       "https://www.serebii.net/Shiny/SWSH/066.png"
@@ -758,6 +1287,14 @@
     "type": [
       "Fighting"
     ],
+    "stats": {
+      "hp": 80,
+      "atk": 100,
+      "def": 70,
+      "spa": 50,
+      "spd": 60,
+      "spe": 45
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/067.png",
       "https://www.serebii.net/Shiny/SWSH/067.png"
@@ -769,6 +1306,14 @@
     "type": [
       "Fighting"
     ],
+    "stats": {
+      "hp": 90,
+      "atk": 130,
+      "def": 80,
+      "spa": 65,
+      "spd": 85,
+      "spe": 55
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/068.png",
       "https://www.serebii.net/Shiny/SWSH/068.png"
@@ -781,6 +1326,14 @@
       "Grass",
       "Poison"
     ],
+    "stats": {
+      "hp": 50,
+      "atk": 75,
+      "def": 35,
+      "spa": 70,
+      "spd": 30,
+      "spe": 40
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/069.png",
       "https://www.serebii.net/Shiny/SWSH/069.png"
@@ -793,6 +1346,14 @@
       "Grass",
       "Poison"
     ],
+    "stats": {
+      "hp": 65,
+      "atk": 90,
+      "def": 50,
+      "spa": 85,
+      "spd": 45,
+      "spe": 55
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/070.png",
       "https://www.serebii.net/Shiny/SWSH/070.png"
@@ -805,6 +1366,14 @@
       "Grass",
       "Poison"
     ],
+    "stats": {
+      "hp": 80,
+      "atk": 105,
+      "def": 65,
+      "spa": 100,
+      "spd": 70,
+      "spe": 70
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/071.png",
       "https://www.serebii.net/Shiny/SWSH/071.png"
@@ -817,6 +1386,14 @@
       "Water",
       "Poison"
     ],
+    "stats": {
+      "hp": 40,
+      "atk": 40,
+      "def": 35,
+      "spa": 50,
+      "spd": 100,
+      "spe": 70
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/072.png",
       "https://www.serebii.net/Shiny/SWSH/072.png"
@@ -829,6 +1406,14 @@
       "Water",
       "Poison"
     ],
+    "stats": {
+      "hp": 80,
+      "atk": 70,
+      "def": 65,
+      "spa": 80,
+      "spd": 120,
+      "spe": 100
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/073.png",
       "https://www.serebii.net/Shiny/SWSH/073.png"
@@ -841,6 +1426,14 @@
       "Rock",
       "Ground"
     ],
+    "stats": {
+      "hp": 40,
+      "atk": 80,
+      "def": 100,
+      "spa": 30,
+      "spd": 30,
+      "spe": 20
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/074.png",
       "https://www.serebii.net/Shiny/SWSH/074.png"
@@ -853,6 +1446,14 @@
       "Rock",
       "Ground"
     ],
+    "stats": {
+      "hp": 55,
+      "atk": 95,
+      "def": 115,
+      "spa": 45,
+      "spd": 45,
+      "spe": 35
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/075.png",
       "https://www.serebii.net/Shiny/SWSH/075.png"
@@ -865,6 +1466,14 @@
       "Rock",
       "Ground"
     ],
+    "stats": {
+      "hp": 80,
+      "atk": 120,
+      "def": 130,
+      "spa": 55,
+      "spd": 65,
+      "spe": 45
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/076.png",
       "https://www.serebii.net/Shiny/SWSH/076.png"
@@ -876,6 +1485,14 @@
     "type": [
       "Fire"
     ],
+    "stats": {
+      "hp": 50,
+      "atk": 85,
+      "def": 55,
+      "spa": 65,
+      "spd": 65,
+      "spe": 90
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/077.png",
       "https://www.serebii.net/Shiny/SWSH/077.png"
@@ -887,6 +1504,14 @@
     "type": [
       "Fire"
     ],
+    "stats": {
+      "hp": 65,
+      "atk": 100,
+      "def": 70,
+      "spa": 80,
+      "spd": 80,
+      "spe": 105
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/078.png",
       "https://www.serebii.net/Shiny/SWSH/078.png"
@@ -899,6 +1524,14 @@
       "Water",
       "Psychic"
     ],
+    "stats": {
+      "hp": 90,
+      "atk": 65,
+      "def": 65,
+      "spa": 40,
+      "spd": 40,
+      "spe": 15
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/079.png",
       "https://www.serebii.net/Shiny/SWSH/079.png"
@@ -911,6 +1544,14 @@
       "Water",
       "Psychic"
     ],
+    "stats": {
+      "hp": 95,
+      "atk": 75,
+      "def": 110,
+      "spa": 100,
+      "spd": 80,
+      "spe": 30
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/080.png",
       "https://www.serebii.net/Shiny/SWSH/080.png"
@@ -923,6 +1564,14 @@
       "Electric",
       "Steel"
     ],
+    "stats": {
+      "hp": 25,
+      "atk": 35,
+      "def": 70,
+      "spa": 95,
+      "spd": 55,
+      "spe": 45
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/081.png",
       "https://www.serebii.net/Shiny/SWSH/081.png"
@@ -935,6 +1584,14 @@
       "Electric",
       "Steel"
     ],
+    "stats": {
+      "hp": 50,
+      "atk": 60,
+      "def": 95,
+      "spa": 120,
+      "spd": 70,
+      "spe": 70
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/082.png",
       "https://www.serebii.net/Shiny/SWSH/082.png"
@@ -947,6 +1604,14 @@
       "Normal",
       "Flying"
     ],
+    "stats": {
+      "hp": 52,
+      "atk": 65,
+      "def": 55,
+      "spa": 58,
+      "spd": 62,
+      "spe": 60
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/083.png",
       "https://www.serebii.net/Shiny/SWSH/083.png"
@@ -959,6 +1624,14 @@
       "Normal",
       "Flying"
     ],
+    "stats": {
+      "hp": 35,
+      "atk": 85,
+      "def": 45,
+      "spa": 35,
+      "spd": 35,
+      "spe": 75
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/084.png",
       "https://www.serebii.net/Shiny/SWSH/084.png"
@@ -971,6 +1644,14 @@
       "Normal",
       "Flying"
     ],
+    "stats": {
+      "hp": 60,
+      "atk": 110,
+      "def": 70,
+      "spa": 60,
+      "spd": 60,
+      "spe": 110
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/085.png",
       "https://www.serebii.net/Shiny/SWSH/085.png"
@@ -982,6 +1663,14 @@
     "type": [
       "Water"
     ],
+    "stats": {
+      "hp": 65,
+      "atk": 45,
+      "def": 55,
+      "spa": 45,
+      "spd": 70,
+      "spe": 45
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/086.png",
       "https://www.serebii.net/Shiny/SWSH/086.png"
@@ -994,6 +1683,14 @@
       "Water",
       "Ice"
     ],
+    "stats": {
+      "hp": 90,
+      "atk": 70,
+      "def": 80,
+      "spa": 70,
+      "spd": 95,
+      "spe": 70
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/087.png",
       "https://www.serebii.net/Shiny/SWSH/087.png"
@@ -1005,6 +1702,14 @@
     "type": [
       "Poison"
     ],
+    "stats": {
+      "hp": 80,
+      "atk": 80,
+      "def": 50,
+      "spa": 40,
+      "spd": 50,
+      "spe": 25
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/088.png",
       "https://www.serebii.net/Shiny/SWSH/088.png"
@@ -1016,6 +1721,14 @@
     "type": [
       "Poison"
     ],
+    "stats": {
+      "hp": 105,
+      "atk": 105,
+      "def": 75,
+      "spa": 65,
+      "spd": 100,
+      "spe": 50
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/089.png",
       "https://www.serebii.net/Shiny/SWSH/089.png"
@@ -1027,6 +1740,14 @@
     "type": [
       "Water"
     ],
+    "stats": {
+      "hp": 30,
+      "atk": 65,
+      "def": 100,
+      "spa": 45,
+      "spd": 25,
+      "spe": 40
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/090.png",
       "https://www.serebii.net/Shiny/SWSH/090.png"
@@ -1039,6 +1760,14 @@
       "Water",
       "Ice"
     ],
+    "stats": {
+      "hp": 50,
+      "atk": 95,
+      "def": 180,
+      "spa": 85,
+      "spd": 45,
+      "spe": 70
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/091.png",
       "https://www.serebii.net/Shiny/SWSH/091.png"
@@ -1051,6 +1780,14 @@
       "Ghost",
       "Poison"
     ],
+    "stats": {
+      "hp": 30,
+      "atk": 35,
+      "def": 30,
+      "spa": 100,
+      "spd": 35,
+      "spe": 80
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/092.png",
       "https://www.serebii.net/Shiny/SWSH/092.png"
@@ -1063,6 +1800,14 @@
       "Ghost",
       "Poison"
     ],
+    "stats": {
+      "hp": 45,
+      "atk": 50,
+      "def": 45,
+      "spa": 115,
+      "spd": 55,
+      "spe": 95
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/093.png",
       "https://www.serebii.net/Shiny/SWSH/093.png"
@@ -1075,6 +1820,14 @@
       "Ghost",
       "Poison"
     ],
+    "stats": {
+      "hp": 60,
+      "atk": 65,
+      "def": 60,
+      "spa": 130,
+      "spd": 75,
+      "spe": 110
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/094.png",
       "https://www.serebii.net/Shiny/SWSH/094.png"
@@ -1087,6 +1840,14 @@
       "Rock",
       "Ground"
     ],
+    "stats": {
+      "hp": 35,
+      "atk": 45,
+      "def": 160,
+      "spa": 30,
+      "spd": 45,
+      "spe": 70
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/095.png",
       "https://www.serebii.net/Shiny/SWSH/095.png"
@@ -1098,6 +1859,14 @@
     "type": [
       "Psychic"
     ],
+    "stats": {
+      "hp": 60,
+      "atk": 48,
+      "def": 45,
+      "spa": 43,
+      "spd": 90,
+      "spe": 42
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/096.png",
       "https://www.serebii.net/Shiny/SWSH/096.png"
@@ -1109,6 +1878,14 @@
     "type": [
       "Psychic"
     ],
+    "stats": {
+      "hp": 85,
+      "atk": 73,
+      "def": 70,
+      "spa": 73,
+      "spd": 115,
+      "spe": 67
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/097.png",
       "https://www.serebii.net/Shiny/SWSH/097.png"
@@ -1120,6 +1897,14 @@
     "type": [
       "Water"
     ],
+    "stats": {
+      "hp": 30,
+      "atk": 105,
+      "def": 90,
+      "spa": 25,
+      "spd": 25,
+      "spe": 50
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/098.png",
       "https://www.serebii.net/Shiny/SWSH/098.png"
@@ -1131,6 +1916,14 @@
     "type": [
       "Water"
     ],
+    "stats": {
+      "hp": 55,
+      "atk": 130,
+      "def": 115,
+      "spa": 50,
+      "spd": 50,
+      "spe": 75
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/099.png",
       "https://www.serebii.net/Shiny/SWSH/099.png"
@@ -1142,6 +1935,14 @@
     "type": [
       "Electric"
     ],
+    "stats": {
+      "hp": 40,
+      "atk": 30,
+      "def": 50,
+      "spa": 55,
+      "spd": 55,
+      "spe": 100
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/100.png",
       "https://www.serebii.net/Shiny/SWSH/100.png"
@@ -1153,6 +1954,14 @@
     "type": [
       "Electric"
     ],
+    "stats": {
+      "hp": 60,
+      "atk": 50,
+      "def": 70,
+      "spa": 80,
+      "spd": 80,
+      "spe": 150
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/101.png",
       "https://www.serebii.net/Shiny/SWSH/101.png"
@@ -1165,6 +1974,14 @@
       "Grass",
       "Psychic"
     ],
+    "stats": {
+      "hp": 60,
+      "atk": 40,
+      "def": 80,
+      "spa": 60,
+      "spd": 45,
+      "spe": 40
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/102.png",
       "https://www.serebii.net/Shiny/SWSH/102.png"
@@ -1177,6 +1994,14 @@
       "Grass",
       "Psychic"
     ],
+    "stats": {
+      "hp": 95,
+      "atk": 95,
+      "def": 85,
+      "spa": 125,
+      "spd": 75,
+      "spe": 55
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/103.png",
       "https://www.serebii.net/Shiny/SWSH/103.png"
@@ -1188,6 +2013,14 @@
     "type": [
       "Ground"
     ],
+    "stats": {
+      "hp": 50,
+      "atk": 50,
+      "def": 95,
+      "spa": 40,
+      "spd": 50,
+      "spe": 35
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/104.png",
       "https://www.serebii.net/Shiny/SWSH/104.png"
@@ -1199,6 +2032,14 @@
     "type": [
       "Ground"
     ],
+    "stats": {
+      "hp": 60,
+      "atk": 80,
+      "def": 110,
+      "spa": 50,
+      "spd": 80,
+      "spe": 45
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/105.png",
       "https://www.serebii.net/Shiny/SWSH/105.png"
@@ -1210,6 +2051,14 @@
     "type": [
       "Fighting"
     ],
+    "stats": {
+      "hp": 50,
+      "atk": 120,
+      "def": 53,
+      "spa": 35,
+      "spd": 110,
+      "spe": 87
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/106.png",
       "https://www.serebii.net/Shiny/SWSH/106.png"
@@ -1221,6 +2070,14 @@
     "type": [
       "Fighting"
     ],
+    "stats": {
+      "hp": 50,
+      "atk": 105,
+      "def": 79,
+      "spa": 35,
+      "spd": 110,
+      "spe": 76
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/107.png",
       "https://www.serebii.net/Shiny/SWSH/107.png"
@@ -1232,6 +2089,14 @@
     "type": [
       "Normal"
     ],
+    "stats": {
+      "hp": 90,
+      "atk": 55,
+      "def": 75,
+      "spa": 60,
+      "spd": 75,
+      "spe": 30
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/108.png",
       "https://www.serebii.net/Shiny/SWSH/108.png"
@@ -1243,6 +2108,14 @@
     "type": [
       "Poison"
     ],
+    "stats": {
+      "hp": 40,
+      "atk": 65,
+      "def": 95,
+      "spa": 60,
+      "spd": 45,
+      "spe": 35
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/109.png",
       "https://www.serebii.net/Shiny/SWSH/109.png"
@@ -1254,6 +2127,14 @@
     "type": [
       "Poison"
     ],
+    "stats": {
+      "hp": 65,
+      "atk": 90,
+      "def": 120,
+      "spa": 85,
+      "spd": 70,
+      "spe": 60
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/110.png",
       "https://www.serebii.net/Shiny/SWSH/110.png"
@@ -1266,6 +2147,14 @@
       "Ground",
       "Rock"
     ],
+    "stats": {
+      "hp": 80,
+      "atk": 85,
+      "def": 95,
+      "spa": 30,
+      "spd": 30,
+      "spe": 25
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/111.png",
       "https://www.serebii.net/Shiny/SWSH/110.png"
@@ -1278,6 +2167,14 @@
       "Ground",
       "Rock"
     ],
+    "stats": {
+      "hp": 105,
+      "atk": 130,
+      "def": 120,
+      "spa": 45,
+      "spd": 45,
+      "spe": 40
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/112.png",
       "https://www.serebii.net/Shiny/SWSH/112.png"
@@ -1289,6 +2186,14 @@
     "type": [
       "Normal"
     ],
+    "stats": {
+      "hp": 250,
+      "atk": 5,
+      "def": 5,
+      "spa": 35,
+      "spd": 105,
+      "spe": 50
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/113.png",
       "https://www.serebii.net/Shiny/SWSH/113.png"
@@ -1300,6 +2205,14 @@
     "type": [
       "Grass"
     ],
+    "stats": {
+      "hp": 65,
+      "atk": 55,
+      "def": 115,
+      "spa": 100,
+      "spd": 40,
+      "spe": 60
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/114.png",
       "https://www.serebii.net/Shiny/SWSH/114.png"
@@ -1311,6 +2224,14 @@
     "type": [
       "Normal"
     ],
+    "stats": {
+      "hp": 105,
+      "atk": 95,
+      "def": 80,
+      "spa": 40,
+      "spd": 80,
+      "spe": 90
+    },
     "forms": [
       "https://www.serebii.net/swordshield/pokemon/115.png",
       "https://www.serebii.net/Shiny/SWSH/115.png"
