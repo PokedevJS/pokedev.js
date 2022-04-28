@@ -22,7 +22,7 @@ pokedev.js is a standalone tool made to help developers get info about a pokemon
   - [Code Example](#code-example)
     - [Console output](#console-output)
   - [Methods](#methods)
-  - [Developers](#developers)
+  - [Contributors](#contributors)
 
 ## Installation
 
@@ -73,7 +73,6 @@ Fetching an array of pokemon by a type.
 - **`getPokemonRandom()`**: 
 Fetching a random pokemon.
 
-## Developers
+## Contributors
 
-- [@RT](https://github.com/rtgamingwdt)
-- [@Mezo](https://github.com/mezotv)
+![image](https://contrib.rocks/image?repo=pokedevjs/pokedev.js)
